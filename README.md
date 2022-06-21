@@ -6,3 +6,4 @@ In my website i have created a food blog website that helps to find the recipes 
 ![image](https://user-images.githubusercontent.com/106902427/172826806-90841e16-3eea-4b53-94fd-c5e6c520e5c6.png)
 ![image](https://user-images.githubusercontent.com/106902427/172826827-fca1bbce-8ecb-4b06-a8da-3a5734fc2ab3.png)
 ![image](https://user-images.githubusercontent.com/106902427/172826839-038f41eb-62fa-4380-9bc0-7b9491024afe.png)
+#azure link https://blue-river-07a5d1310.1.azurestaticapps.net/index.html
